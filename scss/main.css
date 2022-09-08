@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.section, .parrafo {
+  text-align: center;
+  font-size: 25px;
+}
+
+.header {
+  background-color: #E08D79;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  height: 10vh;
+}
+.header__logo {
+  margin-left: 1rem;
+}
+.header__ul {
+  display: flex;
+  list-style: none;
+}
+.header__ul--active {
+  font-weight: 900;
+}
+
+.parrafo {
+  background-color: #e4b58f;
+  color: white;
+  text-transform: uppercase;
+  padding: 3rem;
+}
+
+.section {
+  background-color: #eb91b3;
+  color: white;
+  text-transform: uppercase;
+  padding: 1rem;
+}/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,12 @@
+%estiloParrafo{
+    text-align: center;
+    font-size: 25px;
+}
+
+//Mixin
+@mixin fontStyle ($colorFondo, $padding) {
+    background-color: $colorFondo;
+    color: white;
+    text-transform: uppercase;
+    padding: $padding;
+}

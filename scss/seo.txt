@@ -1,0 +1,14 @@
+Agrege en index:
+Keywords: mascotas,perros,gatos,mascota,productos 
+Titulo: Cuatropatas │ Inicio
+Descripción:Cuatropatas son productos para todo tipo de mascotas.
+
+Agregue a page productos:
+Keywords: cama,perros,gatos,comida,plato,correa 
+Titulo: Cuatropatas │ Productos
+Descripción: Encuentra todo tipo de accesorios y productos para mascotas.
+
+Agregue a page Tiendas:
+Keywords: mascotas,perros,gatos,tiendas,productos 
+Titulo: Cuatropatas │ Tiendas
+Descripción: Encuentra información de tiendas fisicas de Cuatropatas o comunícate con nosotros para tus domicilios.
